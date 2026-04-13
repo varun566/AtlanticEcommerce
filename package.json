@@ -1,8 +1,8 @@
 {
-  "name": "medusa-varun-app",
+  "name": "atlantic-ecommerce",
   "version": "0.0.1",
-  "description": "A starter for Medusa projects.",
-  "author": "Medusa (https://medusajs.com)",
+  "description": "Atlantic ecommerce backend built with Medusa.js",
+  "author": "Varun",
   "license": "MIT",
   "keywords": [
     "sqlite",
