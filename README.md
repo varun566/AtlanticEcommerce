@@ -11,5 +11,6 @@ Atlantic is a headless ecommerce backend built with Medusa.js.
 ```bash
 npm install
 npm run dev
+```
 
 Admin: http://localhost:9000/app
