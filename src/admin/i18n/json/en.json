@@ -1,0 +1,12 @@
+{
+  "login": {
+    "title": "Welcome to Atlantic",
+    "hint": "Sign in to access the Atlantic admin area"
+  },
+  "invite": {
+    "title": "Welcome to Atlantic",
+    "hint": "Create your Atlantic admin account below",
+    "successHint": "Get started with Atlantic Admin right away.",
+    "successAction": "Start Atlantic Admin"
+  }
+}
